@@ -28,7 +28,7 @@ The stopwatch allows users to start, pause, reset, and record lap times in real-
 
 Clone the repository:
 
-```bash
+```
 git clone https://github.com/AyanMujawar/PRODIGY_WD_02_Stopwatch-Web-Application.git
 ```
-Open index.html in your browser to use the stopwatch.
+Open ```index.html``` in your browser to use the stopwatch.
